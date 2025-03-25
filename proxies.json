@@ -1,19 +1,11 @@
 [
   {
-    "wallet": "exmrL4U6vk6VFoh3Q7fkrPbjpNLHPYFf1J8bqGypuiK",
-    "name": "Example Proxy",
-    "image": "./proxies/example/image.png",
-    "description": "Example proxy voter",
-    "detail": "./proxies/example/detail.md",
-    "networks": ["HNT", "MOBILE", "IOT"]
-  },
-  {
     "wallet": "FEREBEE69Lu83YuxB73yUp1w6onRgRCNPgwrLLnwATLd",
     "name": "ferebee",
     "image": "./proxies/ferebee/image.png",
     "description": "Chris Ferebee",
     "detail": "./proxies/ferebee/detail.md",
-    "networks": ["HNT", "MOBILE", "IOT"]
+    "networks": ["HNT"]
   },
   {
     "wallet": "84Q9QQ1DeqsbeBMiaKuh2Vk1wrfKirkZXBrTKyLL2apU",
@@ -21,15 +13,71 @@
     "image": "./proxies/jaym2518/image.png",
     "description": "Jay M.",
     "detail": "./proxies/jaym2518/detail.md",
-    "networks": ["HNT", "MOBILE"]
+    "networks": ["HNT"]
   },
   {
-    "wallet": "2yC8JxPYBv7DACFZsyuDLpb5DHvAiizXkkEAKv9DW2Hb",
-    "name": "JD",
-    "image": "./proxies/jd/image.png",
-    "description": "Empowering the next generation of networks.",
-    "detail": "./proxies/jd/detail.md",
-    "networks": ["HNT", "MOBILE"]
+    "wallet": "2vUjYrkqN1HBccbhfMQFW2E7pDynPbtbHKNgAJLdwdzT",
+    "name": "samgutentag",
+    "image": "./proxies/samgutentag/image.png",
+    "description": "Sam Gutentag",
+    "detail": "./proxies/samgutentag/detail.md",
+    "networks": ["HNT"]
+  },
+    {
+    "wallet": "5UgjWg285kvufDMaMK33jEYhEG4vACp2z4j1yutdm65P",
+    "name": "Lnjenkins",
+    "image": "./proxies/Lnjenkins/image.png",
+    "description": "LF5G.",
+    "detail": "./proxies/Lnjenkins/detail.md",
+    "networks": ["HNT"]
+  },
+  {
+    "wallet": "5MXQLMxjUQFyZWk2Kpe5GdhsjBnQoLypjpcTTyeUXEtd",
+    "name": "AndrewsMD",
+    "image": "./proxies/AndrewsMD/image.png",
+    "description": "AndrewsMD",
+    "detail": "./proxies/AndrewsMD/detail.md",
+    "networks": ["HNT"]
+  },
+  {
+    "wallet": "CSSFGF69WQzHdRd2u1hZ2vKf54yzZ5hxvJhnYSB8KXJh",
+    "name": "workingtitle",
+    "image": "./proxies/WorkingTitle/image.png",
+    "description": "Global Expansion",
+    "detail": "./proxies/WorkingTitle/detail.md",
+    "networks": ["HNT"]
+  },
+  {
+    "wallet": "3dMfWtxjU67HTgKEubo5W7Y5PYBrpTdzLgmDCQb7gFJM",
+    "name": "danggo",
+    "image": "./proxies/danggo/image.png",
+    "description": "danggo",
+    "detail": "./proxies/danggo/detail.md",
+    "networks": ["HNT"]
+  },
+  {
+    "wallet": "GKunRFVcfMem7oS5Yd3WV1Tm48jZoCFME8fbMMdprWS4",
+    "name": "Bones",
+    "image": "./proxies/Bones/image.jpg",
+    "description": "Bones | wdriot.com",
+    "detail": "./proxies/Bones/detail.md",
+    "networks": ["HNT"]
+  },
+  {
+    "wallet": "9DfBwcpMyAAyySPmkNwfmUhshYui4KJEkLS9EN8twv68",
+    "name": "Nova Labs",
+    "image": "./proxies/NovaLabs/image.png",
+    "description": "Nova Labs",
+    "detail": "./proxies/NovaLabs/detail.md",
+    "networks": ["HNT"]
+  },
+  {
+    "wallet": "EYd23cY9ET3rg2kk8hxGHP2gfDmsFgnmHdCq8TMPUarr",
+    "name": "Keith Rettig",
+    "image": "./proxies/KeithRettig/image.png",
+    "description": "Keith Rettig",
+    "detail": "./proxies/KeithRettig/detail.md",
+    "networks": ["HNT"]
   }
   {
     "wallet": "exmrL4U6vk6VFoh3Q7fkrPbjpNLHPYFf1J8bqGypuiK",
